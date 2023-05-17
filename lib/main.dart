@@ -67,18 +67,7 @@ class MyApp extends StatelessWidget {
               themeMode: AppCubit.get(context).isDark? ThemeMode.dark : ThemeMode.light,
               
 
-              home: Builder(builder: (context){
-                 if(MediaQuery.of(context).size.width.toInt()<=560){
-                  return MediaQuery(data: MediaQuery.of(context).copyWith(
-                    textScaleFactor: 0.7,
-                  ),
-                  child: const MobileScreen());
-                 }
-                return MediaQuery(data: MediaQuery.of(context).copyWith(
-                  textScaleFactor: 1.25
-                ),
-                child: const DesktopScreen());
-              })
+              home: NewsLayout(),
 
 
           );
