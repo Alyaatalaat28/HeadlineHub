@@ -1,6 +1,6 @@
 # NewsApp
 
-Browse sports, science and business news using Apis and bloc with some features such as light and dark mode
+Browse sports, science and business news using Apis,dio package and bloc with some features such as webview,search, light and dark mode 
 
 ## Getting Started
 
