@@ -1,4 +1,4 @@
-# web
+# NewsApp
 
 A new Flutter project.
 
