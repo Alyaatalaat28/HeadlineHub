@@ -1,6 +1,6 @@
 # NewsApp
 
-A new Flutter project using Apis and bloc 
+Browse sports, science and business news using Apis and bloc with some features such as light and dark mode
 
 ## Getting Started
 
