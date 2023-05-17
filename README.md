@@ -1,6 +1,6 @@
 # NewsApp
 
-A new Flutter project.
+A new Flutter project using Apis and bloc 
 
 ## Getting Started
 
